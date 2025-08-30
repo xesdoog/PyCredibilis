@@ -1,0 +1,5 @@
+keyboard==0.13.5
+mss==10.1.0
+numpy==2.3.2
+opencv-python==4.10.0.84
+vgamepad==0.1.0

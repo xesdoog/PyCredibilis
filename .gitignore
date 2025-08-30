@@ -1,3 +1,8 @@
+/sounds/top.wav
+/sounds/left.wav
+/sounds/right.wav
+/utils/screenscan_old.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
